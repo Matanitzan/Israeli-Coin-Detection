@@ -1,5 +1,3 @@
-It seems there was an issue generating the download link for the README file. However, you can create the README file manually by copying and pasting the following content into a file named `README.md` in the root directory of your project:
-
 ```markdown
 # Israeli Coin Detection Project
 
