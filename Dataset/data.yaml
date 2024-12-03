@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Five', 'One', 'Ten', 'Two']
+
+roboflow:
+  workspace: matan-nitzan
+  project: israeli-coins-detected
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/matan-nitzan/israeli-coins-detected/dataset/3
